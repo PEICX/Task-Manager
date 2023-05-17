@@ -1,6 +1,5 @@
 # Task-Manager
 
-
 ## Intro
 PyQt5 写的一个任务管理器，只是一个玩具；
 
@@ -34,4 +33,3 @@ cd Task_Manager
 python OS.py
 ```
 
-### other
