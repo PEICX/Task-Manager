@@ -33,3 +33,5 @@ git clone git@github.com:PEICX/Task_Manager.git
 cd Task_Manager
 python OS.py
 ```
+
+### other
